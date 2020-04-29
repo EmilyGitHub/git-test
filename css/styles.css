@@ -37,7 +37,7 @@ header h2 {
   background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-  border: solib #5637dd; }
+  border: solid #5637dd; }
 
 #carouselButton {
   position: absolute;
